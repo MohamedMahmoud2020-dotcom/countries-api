@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.562a5713.css","mappings":"AACA,WACI,wBAAyB,CACzB,gBACJ,CAEA,YACI,wBACJ","sources":["index.css"],"sourcesContent":["\r\n.body-dark{\r\n    background-color: #202d36;\r\n    min-height: 100vh;\r\n}\r\n\r\n.body-light{\r\n    background-color: #fafafa;\r\n}"],"names":[],"sourceRoot":""}
